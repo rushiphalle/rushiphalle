@@ -67,7 +67,7 @@
 
 ## 🔨 Projects
 
-#### 🛍️ [Website for Hotel Grand Regal __(Freelance Project 2025)__](https://github.com/rushihphalle/HotelGrandRegal)
+#### 🛍️ [Website for Hotel Grand Regal __(Freelance Project 2025)__](https://github.com/rushiphalle/HotelGrandRegal)
 **Delivered a production-grade, full-stack web application for a real client, enabling dynamic content management, room/banquet booking, and a secure admin dashboard.** 
 Built end-to-end architecture using React.js for frontend, Node.js + Express for backend, with MongoDB for storing dynamic booking and customer data. Implemented form validation, dynamic data fetching, and robust booking logic with real-time updates.
 
