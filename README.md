@@ -1,9 +1,108 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Phalle</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/rushikesh-phalle-211296266/">Rushikesh Phalle</a></h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">A passionate Fullstack developer and cloud computing enthusiast</h3>
+<p align="center">
+  <a href="https://rushiphalle.vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/rushikesh-phalle-211296266/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  </a>
+  <a href="https://leetcode.com/u/rushikeshgphalle/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:rushikeshgphalle@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/Rushikeshphalle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I'm a Computer Science Engineering student  
+- 💻 I code in **Java**, **JavaScript**, **Node.js** and love building fullstack applications with major interest and expertise in backend  
+- ☁️ Cloud enthusiast — completed **NPTEL Cloud Computing** (Top 1%) and learning AWS and OCI for practicle exposure 
+- 🤖 Currently learning about **DevOps tools**  
+- 📚 I also love competitive coding, system design & automation  
+- 🔭 Working on multiple hobby & real-world projects, Open To collabrate
+
+---
+
+## 🚀 Skills & Technologies
+
+#### 💻 Languages
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+
+#### ⚙️ Frameworks & Tools
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+
+
+#### 🛢️ Databases
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
+
+
+#### ☁️ Cloud & DevOps
+[![AWS](https://img.shields.io/badge/OCI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+## 🔨 Projects
+
+#### 🛍️ [Website for Hotel Grand Regal __(Freelance Project 2025)__](https://github.com/rushihphalle/hotelGrandRegal)
+**Delivered a production-grade, full-stack web application for a real client, enabling dynamic content management, room/banquet booking, and a secure admin dashboard.** 
+Built end-to-end architecture using React.js for frontend, Node.js + Express for backend, with MongoDB for storing dynamic booking and customer data. Implemented form validation, dynamic data fetching, and robust booking logic with real-time updates.
+
+**Tech Stack:** `React.js` . `Node.js` . `Express.js` . `MongoDB`
+
+#### 📄 [Infralink (SIH 2024 Project)](https://github.com/rushiphalle/infralink)
+**Developed a platform to predict and resolve conflicts in government construction projects using machine learning for proactive risk mitigation**
+Handled the core backend unit using Node.js + Express to connect the ML prediction Service, data scraping Service, and frontend interface. Designed REST APIs, managed inter-service communication, and implemented the main conflict detection logic based on coordinate conflicts and data from various sources
+ 
+**Tech Stack:** `Node.js` . `Express.js` . `Python (Flask, scikit-learn)` . `BeautifulSoup4` . `HTML` . `CSS` . `JavaScript`
+
+
+#### 📦 [Ecommerce Platform (Hobby Project 2023)](https://github.com/rushikeshphalle/pdf-docx-converter)
+**Built a desktop-based ecommerce platform enabling seamless interaction between customers and shopkeepers with enhanced control and flexibility.** 
+Designed the UI using Java Swing, implemented Java socket programming for real-time communication, and used concurrency control mechanisms to handle simultaneous operations and conflict resolution during transactions. 
+ 
+**Tech Stack:** `Swing` . `Java Sockets` . `Multithreading` . `Networking`
+
+
+---
+
+## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rushiphalle&show_icons=true&theme=github_dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushiphalle&layout=compact&theme=github_dark&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushiphalle&theme=github-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
