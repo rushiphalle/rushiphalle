@@ -67,6 +67,12 @@
 
 ## 🔨 Projects
 
+#### 🛍️ [AutoChargeHub __(Hobby - Vibe Coding Project 2025)__](https://github.com/rushiphalle/autoChargeHub)
+**Developed a full-stack solution that connects EV owners and charging station providers through two dedicated portals.**
+The platform enables real-time charging station discovery, an interactive chargers map, and online booking services. Leveraged AI agents across the system to automate station recommendations, optimize booking flows, and enhance user experience. The project was inspired by the desire to explore the power of AI in modern web applications while contributing to the growing EV ecosystem trend.
+
+**Tech Stack:** 'React.js' · 'Node.js (Express)' · 'MongoDB' · 'MERN Stack' · 'AI Agents'
+
 #### 🛍️ [ESP32 file system augment passing for SPC Calculation __(Capstone Project 2025)__](https://github.com/rushiphalle/Zanvar-Project)
 **Delivered a production-grade solution to dynamically control and monitor SPC (Statistical Process Control) settings and calculations.** 
 Built a real-time monitoring system that interacts with ESP32 microcontrollers to read manufacturing parameters, perform SPC calculations, and visualize control charts and alerts. Enabled remote parameter tuning and secure data logging to ensure statistical quality assurance.
